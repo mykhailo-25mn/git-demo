@@ -2,3 +2,5 @@ slam
 slom
 echo
 acha
+basha
+besha
