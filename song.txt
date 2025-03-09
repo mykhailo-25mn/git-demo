@@ -6,3 +6,8 @@ new verse
 new string in new branch
 
 execly new commit
+
+conflict solving
+conflict solving
+conflict solving
+conflict solving 
